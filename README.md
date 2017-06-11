@@ -1,7 +1,7 @@
 # subN-FASTQ-Masker
 subN: Masking software for preprocessing of FASTQ files based on PHRED quality score
 
-How to use:
+How to use =>
 perl subN_v_0.1.0.pl -i <input_fastq> -o <output_fastq> -q 30
 
         Options:
